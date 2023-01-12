@@ -1,1 +1,12 @@
 -Introduction to ML, AI & DL
+#What is Machine Learning
+-Make computers learn make decisions
+
+Past data->Process & analyze->Result
+
+-Types
+  1. Supervised(labelled data)
+    i. Classification
+    ii. Regression
+  2. Unsupervised(unlabelled)
+  3. Reinforcement learning(learning & deciding)
