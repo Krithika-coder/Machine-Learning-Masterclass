@@ -12,3 +12,22 @@
 4. supports many technology
 5. supports DB
 -Applications
+-Basic Syntax
+  1. Indentation
+  2. Comments
+    i. single line
+    ii. multi-line
+-Variables: containers for storing data values
+  ->Casting:assigning one datatype to another
+-Datatypes
+  1. Numeric
+    i. int
+    ii. float
+    iii. complex
+  2. Sequence
+    i. string
+    ii. list
+    iii. tuple
+  3. Set
+  4. Dictionary(key:value)
+  5. Boolean(true/false)
