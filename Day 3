@@ -1,5 +1,9 @@
 #conditional statements
 1. if
 2. if-else
-3. elif
+3. if-elif
 4. nested if
+
+#looping statements
+1. for
+2. while
