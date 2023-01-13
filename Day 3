@@ -7,3 +7,10 @@
 #looping statements
 1. for
 2. while
+
+#functions: block of code run only when called.
+->types:
+  1. user-defined
+  2. built-in
+->structures
+->arguments
